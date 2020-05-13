@@ -4,6 +4,6 @@
 </p>
 
 # Projeto
-Desafio Semana OmniStack 11 - Back-end
+Desafio Semana OmniStack 11 - <strong>Back-end</strong>
 
 Esse projeto tem por objetivo conectar pessoas que desejam fazer contribuições monetárias a ONG's que precisam de ajuda.
