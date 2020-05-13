@@ -1,6 +1,6 @@
-<h1 align="center">
-    <img alt="Hero" title="#hero" src=".github/hero_pp.svg" width="200px" />
-</h1>
+<p align="center">
+  <img alt="Hero" src="./backend/.github/hero_pp.png" width="100%">
+</p>
 
 # Projeto
 Desafio Semana OmniStack 11 - Back-end
