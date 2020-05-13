@@ -10,7 +10,7 @@ Esse projeto tem por objetivo conectar pessoas que desejam fazer contribuições
 
 # Tecnologias
 Foram utilizadas as seguintes tecnologias:
-[Node.js](https://nodejs.org/en)
-[React](https://reactjs.org)
-[React Native](https://reactnative.dev)
-[Expo](https://expo.io)
+- [Node.js](https://nodejs.org/en)
+- [React](https://reactjs.org)
+- [React Native](https://reactnative.dev)
+- [Expo](https://expo.io)
