@@ -1,5 +1,6 @@
 <p align="center">
   <img alt="Hero" src="./backend/.github/hero_pp.png">
+  <img alt="Bat" src="./backend/.github/bat_p.png">
 </p>
 
 # Projeto
