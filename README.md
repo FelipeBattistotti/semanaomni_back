@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Hero" title="#hero" src=".github/hero_pp.png" width="200px" />
+    <img alt="Hero" title="#hero" src=".github/hero_pp.svg" width="200px" />
 </h1>
 
 # Projeto
