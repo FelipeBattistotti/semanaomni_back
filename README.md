@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hero" src="./backend/.github/hero_pp.png" width="100%">
+  <img alt="Hero" src="./backend/.github/hero_pp.png">
 </p>
 
 # Projeto
